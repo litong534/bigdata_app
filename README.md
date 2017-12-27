@@ -2,6 +2,10 @@
 
 一个高仿大数据应用app的项目，希望能帮助刚入门vue的小伙伴
 
+预览地址: http://rozwel.club/education
+
+也欢迎大家光临我的博客: http://rozwel.club
+
 
 ## Build Setup
 
